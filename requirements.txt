@@ -1,0 +1,6 @@
+notebook
+pandas
+scikit-learn
+apache-airflow-providers-amazon
+mlflow
+
